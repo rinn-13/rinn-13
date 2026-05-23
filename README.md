@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/rinn-13/rinn/main/banner.png)
+![Banner](https://github.com/rinn-13/rinn-13/blob/main/banner.jpg)
 
 # 💫 About Me:
 Hi! Rin here, just a beginner in the world of technology✨
